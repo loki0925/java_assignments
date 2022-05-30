@@ -1,5 +1,6 @@
 package que3;
 
-public class Sedan {
+public class Sedan extends Car {
 
+	final int farePerKm =20;
 }
